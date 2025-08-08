@@ -1,1 +1,3 @@
 # H1 heading here
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
